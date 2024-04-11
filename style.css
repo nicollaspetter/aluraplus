@@ -1,4 +1,9 @@
-body{
+header{
     background-color: #383D58;
-    color:white
+    color:white;
+    display: flex;
+    justify-content: space-around;
+}
+.cabecalhp-imagem{
+    width: 20%;
 }
